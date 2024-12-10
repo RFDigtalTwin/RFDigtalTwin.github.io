@@ -1,7 +1,7 @@
 RFDT Supplementary
 ===========================
 
-The package, which includes data, notebooks, and ``.whl`` files is available for download at: `demo.zip <https://github.com/RFDT/RFDT.github.io/releases/download/0.0.1/demo.zip>`_.
+The package, which includes data, notebooks, and ``.whl`` files is available for download at: `demo.zip <https://github.com/RFDigtalTwin/RFDigtalTwin.github.io/releases/download/Release/demo.zip>`_.
 
 .. toctree::
    :maxdepth: 2
