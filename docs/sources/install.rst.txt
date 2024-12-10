@@ -22,7 +22,7 @@ Install requirements:
     
     conda install -c "nvidia/label/cuda-11.8.0" cuda-toolkit
 
-Download `RFDT-0.0.1-cp38-cp38-linux_x86_64.whl <https://github.com/RFDigtalTwin/RFDigtalTwin.github.io/releases/download/Release/invertwin-0.0.1-cp38-cp38-linux_x86_64.whl>`_
+Download `RFDT-0.0.1-cp38-cp38-linux_x86_64.whl <https://github.com/RFDigtalTwin/RFDigtalTwin.github.io/releases/download/Release/RFDT-0.0.1-cp38-cp38-linux_x86_64.whl>`_
 
 .. code-block:: ins_RFDT
 
