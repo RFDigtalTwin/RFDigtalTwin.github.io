@@ -1,0 +1,40 @@
+.. inversense documentation master file, created by
+   sphinx-quickstart on Tue Sep  3 18:28:18 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+.. meta::
+    :robots
+        noindex, nofollow
+
+Welcome to RFDT
+========================
+
+RFDT is a fully differentiable radio simulator designed for Digital Twin.
+The paper is currently in submission, hence the current webpage is in anonymous.
+
+Abstract
+------------
+
+Digital twins, virtual replicas of physical systems, have revolutionized various industries. 
+However, their potential in radio frequency (RF) applications has been limited by the unidirectional 
+nature of conventional simulators. Here, we present RFDT, the first inverse simulator for RF digital twins, 
+enabling bidirectional interaction between virtual and physical realms. RFDT overcomes the 
+challenges of discontinuity and local non-convexity in RF simulations optimization through 
+path-space differentiation with edge reparametrization, making the simulator end-to-end differentiable 
+for arbitrary scene parameters. We introduce a surrogate model for radar waveform to address phase 
+periodicity issues.  Our proposed
+approach harnesses the power of physical-based simulation with differentiable computing.
+Our extensive experiments demonstrate that RFDT significantly enhances existing machine 
+learning systems, improves robotics applications, and facilitates physically constrained parameter searches. 
+These advancements pave the way for more accurate and responsive RF digital twins, with potential applications 
+in communications, autonomous systems, and smart environments.
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Home <self>
+   install
+   supplementary

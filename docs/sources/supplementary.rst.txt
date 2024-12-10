@@ -1,0 +1,12 @@
+RFDT Supplementary
+===========================
+
+The package, which includes data, notebooks, and ``.whl`` files is available for download at: `demo.zip <https://github.com/RFDT/RFDT.github.io/releases/download/0.0.1/demo.zip>`_.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   notebook/loss-landscape
+   notebook/spectrum
+   notebook/grad
